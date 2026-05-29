@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import TagCloud from '../components/TagCloud.astro';
+import { getCollection } from 'astro:content';
+const articles = (await getCollection('articles')).sort((a,b) => new Date(b.data.date).getTime() - new Date(a.data.date).getTime()).slice(0,5);
+const allArticles = await getCollection('articles');
+const tagCounts = {};
+allArticles.forEach(a => a.data.tags.forEach(t => { tagCounts[t] = (tagCounts[t] || 0) + 1; }));
+---
+<BaseLayout title="8this.org">
+  <div class="hero">
+    <h1>8this.</h1>
+    <p>The diet of exercise and the exercise of diet — food, information, and the discipline of nourishing yourself well.</p>
+  </div>
+  <section style="margin-bottom: 2.5rem;">
+    <h2 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 1rem; font-family: 'Source Sans 3', sans-serif; font-weight: 600;">Explore by topic</h2>
+    <TagCloud tags={tagCounts} />
+  </section>
+  <section>
+    <h2 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 1rem; font-family: 'Source Sans 3', sans-serif; font-weight: 600;">Recent</h2>
+    <ul class="article-list">
+      {articles.map(a => (
+        <li class="article-item">
+          <h2><a href={`/articles/${a.slug}`}>{a.data.title}</a></h2>
+          <div class="article-meta">{a.data.date}</div>
+          {a.data.description && <p class="article-desc">{a.data.description}</p>}
+        </li>
+      ))}
+    </ul>
+    <p style="margin-top:1.5rem;"><a href="/articles">All articles →</a></p>
+  </section>
+</BaseLayout>

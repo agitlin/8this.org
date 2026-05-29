@@ -1,0 +1,71 @@
+/* 8this.org — warm earth, inviting, food-blog feel */
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,300;0,600;1,300&family=Source+Sans+3:wght@300;400;600&display=swap');
+
+:root {
+  --bg: #fdf9f4;
+  --surface: #f5ede0;
+  --border: #e0ccb4;
+  --text: #2a1f0f;
+  --muted: #7a6048;
+  --accent: #c4622d;
+  --accent-light: #e8895a;
+  --link: #c4622d;
+  --tag-bg: #f0ddc8;
+  --tag-text: #7a3818;
+  --max-w: 720px;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body { background: var(--bg); color: var(--text); font-family: 'Source Sans 3', system-ui, sans-serif; font-weight: 300; font-size: 1.05rem; line-height: 1.8; }
+a { color: var(--link); text-decoration: none; }
+a:hover { text-decoration: underline; }
+h1, h2, h3 { font-family: 'Fraunces', Georgia, serif; font-weight: 600; line-height: 1.2; color: var(--text); }
+
+.site-header { border-bottom: 1px solid var(--border); padding: 1.25rem 2rem; display: flex; justify-content: space-between; align-items: center; background: var(--bg); }
+.site-title { font-family: 'Fraunces', serif; font-size: 1.5rem; font-weight: 600; font-style: italic; color: var(--accent); letter-spacing: -0.01em; }
+.site-title a { color: inherit; }
+.site-title a:hover { text-decoration: none; }
+nav a { margin-left: 1.5rem; font-size: 0.88rem; font-weight: 600; letter-spacing: 0.05em; text-transform: uppercase; color: var(--muted); }
+nav a:hover { color: var(--accent); text-decoration: none; }
+
+main { max-width: var(--max-w); margin: 3rem auto; padding: 0 1.5rem; }
+
+.hero { margin-bottom: 3rem; padding-bottom: 2rem; border-bottom: 1px solid var(--border); }
+.hero h1 { font-size: 2.4rem; margin-bottom: 0.75rem; font-style: italic; color: var(--accent); }
+.hero p { color: var(--muted); font-size: 1.1rem; }
+
+.article-list { list-style: none; }
+.article-item { padding: 1.5rem 0; border-bottom: 1px solid var(--border); }
+.article-item:last-child { border-bottom: none; }
+.article-item h2 { font-size: 1.35rem; margin-bottom: 0.35rem; font-style: italic; }
+.article-item h2 a { color: var(--text); }
+.article-item h2 a:hover { color: var(--accent); text-decoration: none; }
+.article-meta { font-size: 0.8rem; color: var(--muted); margin-bottom: 0.5rem; text-transform: uppercase; letter-spacing: 0.05em; }
+.article-desc { color: var(--muted); font-size: 0.95rem; }
+
+.tag-cloud { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 1.5rem 0; }
+.tag { background: var(--tag-bg); color: var(--tag-text); padding: 0.25rem 0.75rem; border-radius: 20px; font-size: 0.8rem; font-weight: 600; letter-spacing: 0.02em; }
+.tag:hover { background: var(--accent); color: white; text-decoration: none; }
+.tag.large { font-size: 0.95rem; padding: 0.3rem 0.9rem; }
+
+.article-header { margin-bottom: 2.5rem; padding-bottom: 1.5rem; border-bottom: 1px solid var(--border); }
+.article-header h1 { font-size: 2rem; margin-bottom: 0.5rem; font-style: italic; }
+.article-header .meta { color: var(--muted); font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; }
+
+.prose p { margin-bottom: 1.5rem; }
+.prose h2 { font-size: 1.5rem; margin: 2rem 0 0.75rem; font-style: italic; }
+.prose h3 { font-size: 1.2rem; margin: 1.5rem 0 0.5rem; }
+.prose ul, .prose ol { padding-left: 1.5rem; margin-bottom: 1.5rem; }
+.prose li { margin-bottom: 0.5rem; }
+.prose strong { font-weight: 600; color: var(--accent); }
+.prose em { font-style: italic; }
+.prose blockquote { border-left: 4px solid var(--accent-light); padding-left: 1.2rem; color: var(--muted); font-style: italic; margin: 1.5rem 0; font-family: 'Fraunces', serif; font-size: 1.1rem; }
+.prose hr { border: none; border-top: 1px solid var(--border); margin: 2.5rem 0; }
+
+.back-link { display: inline-block; margin-top: 2.5rem; font-size: 0.88rem; color: var(--muted); }
+.back-link:hover { color: var(--accent); }
+.article-tags { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid var(--border); }
+.article-tags h3 { font-family: 'Source Sans 3', sans-serif; font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.08em; color: var(--muted); margin-bottom: 0.75rem; font-weight: 600; }
+.tag-page-title { font-size: 2rem; margin-bottom: 0.5rem; font-style: italic; }
+.tag-page-title span { color: var(--accent); }
+.site-footer { border-top: 1px solid var(--border); padding: 2rem; text-align: center; font-size: 0.82rem; color: var(--muted); margin-top: 4rem; }
