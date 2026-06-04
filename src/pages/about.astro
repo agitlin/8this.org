@@ -1,12 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
+import { getAboutArticle } from '../lib/content';
+
+// The About page renders whichever article is tagged `about` (enforced unique
+// at build time in lib/content.ts), so it's editable in the CMS like any post.
+const about = await getAboutArticle();
+const { Content } = about ? await about.render() : { Content: null };
 ---
-<BaseLayout title="About">
+<BaseLayout title="About" description={about?.data.description}>
   <article class="prose">
-    <div class="article-header"><h1>About</h1></div>
-    <p>Open a little box of trail mix. Take out a Brazil nut, a hazelnut, a slice of dried dragon fruit, a fig, a date, and an almond. Count the calories. Make the case that this is sufficient for a proper snack.</p>
-    <p>That's 8this in a nutshell — pragmatic, intentional, creative. Not a diet plan. Not a recipe blog. A practice of treating what you put into your body (and your mind) with the same care you'd bring to any serious craft.</p>
-    <p>The site runs on one core idea: your <em>informational diet</em> is there to fuel your <em>informational exercise program</em>. What you eat and what you read are not separate disciplines. They're both about choosing quality sources, reasonable quantities, and good timing — then building something with what you've consumed.</p>
-    <p>8this covers cooking, food philosophy, diet pragmatics, and the occasional bridge to how those same principles apply to how you read, learn, and think.</p>
+    <div class="article-header"><h1>{about?.data.title ?? 'About'}</h1></div>
+    {Content ? <Content /> : <p>No article is tagged <code>about</code> yet.</p>}
   </article>
 </BaseLayout>
