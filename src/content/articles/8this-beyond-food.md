@@ -1,10 +1,16 @@
 ---
-title: "8this — Beyond Food"
-date: "2026-01-26"
-tags: [philosophy, diet, informational-diet, learning]
-description: "Just as you curate and portion your food intake, so too with information, skills, and knowledge. Your informational diet is there to fuel your informational exercise program."
+title: 8this — Beyond Food
+date: 2026-01-26
+description: Just as you curate and portion your food intake, so too with
+  information, skills, and knowledge. Your informational diet is there to fuel
+  your informational exercise program.
+tags:
+  - philosophy
+  - diet
+  - informational-diet
+  - learning
+draft: true
 ---
-
 The 8this domain has a potential for things beyond food.
 
 We all have things we keep learning and relearning, we go into rabbit holes.
