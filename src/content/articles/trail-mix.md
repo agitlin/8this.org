@@ -30,7 +30,7 @@ What keeps me sane when I enter a supermarket is a mental model of **0-1-2**.
 
 There are tens of thousands of different products for sale in a modern supermarket, so you are going to buy precisely zero from the vast majority of them. Just relax into this realization. You will let most of them go by untasted, just like the trail you travel leaves most of the land you pass through unexplored.
 
-Let's say you're in a Whole Foods, or some other privilege store, and they're offering fair-trade organic individually massaged lightly-hickory-smoked-while-dried Montessori goji berries you could add to your trail mix. The choice is yours: you can buy them one time, or zero times. They could yield a life-changing culinary experience. Or — likely — not. *Zero* describes the impact they'll have on your diet, your day, your hike. In Mark Manson's terms, it's the number of f*cks you should give to everything in this category.
+Let's say you're in a Whole Foods, or some other privilege store, and they're offering fair-trade organic individually massaged lightly-hickory-smoked-while-dried Montessori goji berries you could add to your trail mix. The choice is yours: you can buy them one time, or zero times. They could yield a life-changing culinary experience. Or — likely — not. *Zero* describes the impact they'll have on your diet, your day, your hike. In [Mark Manson](https://markmanson.net/)'s terms, it's the number of f*cks you should give to everything in this category.
 
 ### 1
 
