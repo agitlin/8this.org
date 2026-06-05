@@ -6,6 +6,8 @@ description: "The first of 8 fundamentals: how a bag of trail mix teaches you to
 draft: false
 ---
 
+![A hiker with a jar of trail mix](/images/trail_mix_hiker.png)
+
 Trail mix is what you eat on a trail. You take a little bag of food with you, and in the bag there is a mix of nuts and dried fruit. If you bought your trail mix last minute at the gas station, it will be overpriced, stale, and the ratio of cashews to peanuts will be insulting. If you bought it at a good supermarket, the mix could be less stale and the cashews could be better represented. If you buy a trail mix *and* a bag of cashews, you can make the ratios exactly the way you like. And if you go to a privilege store, buy dried fruit and nuts by weight, dump them all into a big bowl, mix for a minute, bag them, and store them in a cool dark place — you cornered the market. You used a bit of your time, a bit of your money, and a simple skill (mixing stuff in a bowl) to make your ideas come true, to get a better product than an industry can offer you.
 
 But the most important part of this is that once you produce your trail mix, you might realize you actually don't care for cashews and would rather have more hazelnuts in the mix. You are stepping onto the path of iterating on your ideas. Intimate feedback loops build more than just better taste and nutrition:
@@ -20,11 +22,15 @@ Yes, trail mix can teach you things. It can teach you the most basic concept of 
 
 Another thing the diet teaches you is hiding in the *trail* part of the name. A diet is about where you're at, and naturally about the unique constraints and highlights of that place and that activity. (Easily digestible, highly nutritious food that doesn't need refrigeration plays well on a trail.) If you take a little break from running the trails of your own life and think about your unique constraints, your unique highs and lows, you'll be way ahead of the competition in constructing a diet that fits you like a glove — through the same intimate feedback loop:
 
-> **Buy wisely → Mix briefly → Consume mindfully → Repeat thoughtfully.**
+<blockquote class="highlight-quote">
+  <p><strong>Buy wisely → Mix briefly → Consume mindfully → Repeat thoughtfully.</strong></p>
+</blockquote>
 
 ## Buy wisely
 
 What keeps me sane when I enter a supermarket is a mental model of **0-1-2**.
+
+![The 0-1-2 mental model jars](/images/zero_one_two.png)
 
 ### 0
 
