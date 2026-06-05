@@ -6,6 +6,8 @@ description: "About 8this.org — pragmatic, intentional, creative nourishment f
 draft: false
 ---
 
+I love the kitchen. I know the kitchen. I make good use of it. I don't spend too much time there but the time I spend there counts and compounds. I am going to teach you 8 fundamental things about the kitchen that can make your today's kitchen problems disappear.
+
 Open a little box of trail mix. Take out a Brazil nut, a hazelnut, a slice of dried dragon fruit, a fig, a date, and an almond. Count the calories. Make the case that this is sufficient for a proper snack.
 
 That's 8this in a nutshell — pragmatic, intentional, creative. Not a diet plan. Not a recipe blog. A practice of treating what you put into your body (and your mind) with the same care you'd bring to any serious craft.
