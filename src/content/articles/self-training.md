@@ -1,10 +1,16 @@
 ---
-title: "Self Training"
-date: "2026-05-05"
-tags: [fitness, discipline, philosophy, sovereignty]
-description: "It would be a good practice of doing things I don't want to do. Self training. Maybe that's what equanimity actually feels like — not caring less, but caring rightly."
+title: Self Training
+date: 2026-05-05
+description: It would be a good practice of doing things I don't want to do.
+  Self training. Maybe that's what equanimity actually feels like — not caring
+  less, but caring rightly.
+tags:
+  - fitness
+  - discipline
+  - philosophy
+  - sovereignty
+draft: true
 ---
-
 Last week ran 22 minutes twice. This week it should be 25. Instead of taking a nap — time to go run.
 
 **It would be a good practice of doing things I don't want to do. Self training.**
