@@ -16,7 +16,7 @@ If you live alone, people mostly happen outside your home. If you live with othe
 
 On one hand, you want to contribute positively: to package your organization, your creativity, your appreciation of being alive into something authentic that you made all by yourself. On the other hand, you don't want to come across like their b*tch. Making things in the kitchen while they play a game on their phone could give them the wrong idea about who you are.
 
-There's another difficulty to address. If you buy perishable things — veggies, say — you either turn your life upside down to put them on a schedule and make sure they deliver their freshness to you and yours, or you become a statistic in the most modern of person-veggie relationships: old veggies rotting in a moldy hospice at the back of the bottom drawer of the fridge, removed as a smelly liquid goo in a plastic bag when the fridge's owner finally wakes from a Netflix-binging coma.
+There's another difficulty to address. If you buy perishable things — veggies, say — you either turn your life upside down to put them on a schedule and make sure they deliver their freshness to you and yours, or you become a statistic in the most modern of person-veggie relationships: old veggies rotting in a moldy hospice at the back of the bottom drawer of the fridge, removed as a smelly liquid goo in a plastic bag when the fridge's owner finally wakes from a Netflix-binge coma.
 
 Hence pickles.
 
