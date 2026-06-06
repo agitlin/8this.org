@@ -6,6 +6,8 @@ description: "The second of 8 fundamentals: when other people enter the kitchen,
 draft: false
 ---
 
+![A 6-quart Cambro container filled with pickles: dill, garlic, cucumbers, carrots, zucchini, and tomatoes](/images/pickles_hero.png)
+
 It's great when your life is fun and games, trails and mixes — when your only choice is what goes in the bag and where you source it. Non-perishable things are easy to deal with, and you stay in full control.
 
 But then life happens. And by *life* I mostly mean people.
@@ -29,6 +31,8 @@ And if you know how to make a [trail mix](/articles/trail-mix), you almost know 
 <blockquote class="highlight-quote">
   <p><strong>Buy fresh → Pack & brine → Wait patiently → Share generously.</strong></p>
 </blockquote>
+
+![A muscular man's forearm pressing an open palm into a mix of red and white sliced cabbage inside a Cambro container](/images/pickles_fermentation.png)
 
 ## Buy
 
