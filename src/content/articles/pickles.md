@@ -1,11 +1,15 @@
 ---
-title: "Pickles"
-date: "2026-06-07"
-tags: [food, diet, systems, fundamentals, fermentation]
-description: "The second of 8 fundamentals: when other people enter the kitchen, pickles let you turn something perishable into something that just chills there, compounding."
+title: Pickles
+date: 2026-06-07
+description: "The second of 8 fundamentals: pickles just chills there, compounding."
+tags:
+  - food
+  - diet
+  - systems
+  - fundamentals
+  - fermentation
 draft: false
 ---
-
 ![A 6-quart Cambro container filled with pickles: dill, garlic, cucumbers, carrots, zucchini, and tomatoes](/images/pickles_hero.png)
 
 It's great when your life is fun and games, trails and mixes — when your only choice is what goes in the bag and where you source it. Non-perishable things are easy to deal with, and you stay in full control.
@@ -28,9 +32,7 @@ Once in the fridge, pickles don't turn bad. They actually keep getting *better* 
 
 And if you know how to make a [trail mix](/articles/trail-mix), you almost know how to make pickles.
 
-<blockquote class="highlight-quote">
-  <p><strong>Buy fresh → Pack & brine → Wait patiently → Share generously.</strong></p>
-</blockquote>
+> **Buy fresh → Pack & brine → Wait patiently → Share generously.**
 
 ![A muscular man's forearm pressing an open palm into a mix of red and white sliced cabbage inside a Cambro container](/images/pickles_fermentation.png)
 
