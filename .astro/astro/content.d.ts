@@ -176,6 +176,13 @@ declare module 'astro:content' {
   collection: "articles";
   data: InferEntrySchema<"articles">
 } & { render(): Render[".md"] };
+"trail-mix.md": {
+	id: "trail-mix.md";
+  slug: "trail-mix";
+  body: string;
+  collection: "articles";
+  data: InferEntrySchema<"articles">
+} & { render(): Render[".md"] };
 };
 
 	};
