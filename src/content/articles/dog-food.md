@@ -27,9 +27,9 @@ If I only cared about my own macros, I'd cook the meat so there were no leftover
 
 Here's the part where you decide if we're still friends.
 
-We are the dogs of the food industry. What lands on our plate is an afterthought. Once they've figured out what's cheap, and what looks and smells and tastes yummy, they draw the line — and hand us a bowl of dog food with a topper. The only question is who draws the line. When they cook, they draw it. When you cook, you do. That's the whole chapter.
+**We are the dogs of the food industry.** What lands on our plate is an afterthought. Once they've figured out what's cheap, and what looks and smells and tastes yummy, they draw the line — and hand us a bowl of dog food with a topper. The only question is who draws the line. When they cook, they draw it. When you cook, you do. That's the whole chapter.
 
-Pilaf.
+## Pilaf
 
 ![A schematic diagram showing how to split a pilaf plate between a person and a 'Doggy bank'](/images/dog_food_metaphor_cartoon.jpg)
 
