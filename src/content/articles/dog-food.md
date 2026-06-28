@@ -1,11 +1,17 @@
 ---
-title: "Dog Food"
-date: "2026-06-28"
-tags: [food, diet, systems, fundamentals, pilaf]
-description: "The third of 8 fundamentals: pilaf, your dog, and learning to draw the line — because the only question is who decides where human food ends and dog food starts."
-draft: true
+title: Dog Food
+date: 2026-06-28
+description: "The third of 8 fundamentals: pilaf, your dog, and learning to draw
+  the line — because the only question is who decides where human food ends and
+  dog food starts."
+tags:
+  - food
+  - diet
+  - systems
+  - fundamentals
+  - pilaf
+draft: false
 ---
-
 *( We are about to cross the Rubicon and burn the bridges. Drumroll. There was a safe way to name this chapter. I could have titled it "Pilaf", kept all my friends, and told you close to nothing. But I chose to go all in and tell you the truth as I see it. You'll choose if you still want to be my friend by the end of the chapter. )*
 
 So many people love pilaf. So many nations pride themselves on being pilaf masters, cooking festive pilaf for thousands at weddings in cast iron pots the size of an elephant. How dare I put pilaf and dog food in the same sentence?
@@ -22,9 +28,7 @@ We are the dogs of the food industry. What lands on our plate is an afterthought
 
 Pilaf.
 
-<blockquote class="highlight-quote">
-  <p><strong>Cook your thing → Draw the line → Take your share → Feed the dog.</strong></p>
-</blockquote>
+> **Cook your thing → Draw the line → Take your share → Feed the dog.**
 
 Brown 3–4 lamb shanks, or 6–8 chicken drumsticks, or an equal amount of whatever meat you like, in oil with some salt and pepper. Meanwhile, cut up an onion and a couple of carrots. When the meat is almost browned, throw in the onion and carrots. Resist the temptation to add more oil. Once the onions go transparent and even slightly caramelized, add a couple of cups of water. Boil under cover for an hour or two, depending on the meat. Add a grain of your choice and enough boiling water for the grain to drink up. Here's a secret: if the ratio isn't the perfect 1 cup grain : 2 cups water, the grain will drink it up anyway. It's just a matter of time.
 
