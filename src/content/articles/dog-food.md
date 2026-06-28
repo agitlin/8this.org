@@ -12,6 +12,9 @@ tags:
   - pilaf
 draft: false
 ---
+
+![A cartoonish illustration of a giant pilaf pot the size of an elephant with tiny people looking up](/images/pilaf_hero_cartoon.jpg)
+
 *( We are about to cross the Rubicon and burn the bridges. Drumroll. There was a safe way to name this chapter. I could have titled it "Pilaf", kept all my friends, and told you close to nothing. But I chose to go all in and tell you the truth as I see it. You'll choose if you still want to be my friend by the end of the chapter. )*
 
 So many people love pilaf. So many nations pride themselves on being pilaf masters, cooking festive pilaf for thousands at weddings in cast iron pots the size of an elephant. How dare I put pilaf and dog food in the same sentence?
@@ -27,6 +30,8 @@ Here's the part where you decide if we're still friends.
 We are the dogs of the food industry. What lands on our plate is an afterthought. Once they've figured out what's cheap, and what looks and smells and tastes yummy, they draw the line — and hand us a bowl of dog food with a topper. The only question is who draws the line. When they cook, they draw it. When you cook, you do. That's the whole chapter.
 
 Pilaf.
+
+![A schematic diagram showing how to split a pilaf plate between a person and a 'Doggy bank'](/images/dog_food_metaphor_cartoon.jpg)
 
 > **Cook your thing → Draw the line → Take your share → Feed the dog.**
 
