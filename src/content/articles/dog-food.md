@@ -22,6 +22,10 @@ We are the dogs of the food industry. What lands on our plate is an afterthought
 
 Pilaf.
 
+<blockquote class="highlight-quote">
+  <p><strong>Cook your thing → Draw the line → Take your share → Feed the dog.</strong></p>
+</blockquote>
+
 Brown 3–4 lamb shanks, or 6–8 chicken drumsticks, or an equal amount of whatever meat you like, in oil with some salt and pepper. Meanwhile, cut up an onion and a couple of carrots. When the meat is almost browned, throw in the onion and carrots. Resist the temptation to add more oil. Once the onions go transparent and even slightly caramelized, add a couple of cups of water. Boil under cover for an hour or two, depending on the meat. Add a grain of your choice and enough boiling water for the grain to drink up. Here's a secret: if the ratio isn't the perfect 1 cup grain : 2 cups water, the grain will drink it up anyway. It's just a matter of time.
 
 Here's another secret: if you add not 2 cups of water but 2 cups of *rice* (or buckwheat, or bulgur, or millet, or whatever grain you want), your dog will have less special human food to eat. But he has his own dog food anyway.
