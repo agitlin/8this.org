@@ -10,7 +10,7 @@ tags:
   - systems
   - fundamentals
   - bigos
-draft: true
+draft: false
 ---
 
 I don't cook recipes, and I think you should not either. Life is too long for recipes. Recipes don't know you. They don't know where you are coming from and where you are going, who you are with and what you want. They don't know the spectrum of your abilities, the labyrinth of your constraints and the fireworks of your talents.
@@ -32,6 +32,8 @@ The one who remembers that all these lofty concepts — history, heritage, commu
 When you choose to make a Something, you are doing a bit more than catering to your values and feeding your people. If you choose your Somethings well, making them will never be another sprint. It will be one of many beautiful marathons, and you will get the runner's high while you are still planning and shopping for your next encounter with it.
 
 For a Something to stick, it has to hit a few important points. It has to connect deeply with who you are: you should have history together, or want to make such history. It should be appreciated and celebrated by the people you share it with. And it should not raise too many eyebrows in your inner committee du jour — your nutritionist, your economist and your artist should not be allergic to the idea of making it.
+
+![The Inner Committee](/images/inner-committee.jpg)
 
 Oh no I said too much. I haven't said enough. Let's get to examples.
 
@@ -56,5 +58,7 @@ Pre-roast a mix of sauerkraut and chopped fresh cabbage on a baking sheet for 20
 Put the baking sheet into the oven for 20 minutes at high temperature (200C or so). Take it out and flip. The bottom layer of cabbage will have drunk up the beef juices, and once it's facing the heat it caramelizes. Bake for another 20 minutes and serve.
 
 Which brings us back to the spectrum. Once you know the basic recipe, the tastes of your audience and your own preferences, your goal is still not perfection. It's constrained exploration. As you keep going, new constraints show up, and you creatively embrace them and make an iteration of your Something that fits inside them. If life gives you shorter time frames, you make bigos burgers.
+
+![The Spectrum of Bigos](/images/bigos-timeline.jpg)
 
 If life gives you lemons, you make lemon-kraut bigos.
