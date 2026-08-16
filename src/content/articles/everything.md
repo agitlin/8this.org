@@ -24,6 +24,8 @@ First of all, before making Everything you need to eyeball it. How many people a
 
 Let me be honest with you here. If you try to make everything on the stove you'd be screwed. You will need to fry things one after the other, and in the process you will make your kitchen messy, your guests fat from all the frying, and yourself into a woman ready to be emancipated by a high-flying career and progressive causes — even if you started out as an unshaved man wearing a wife beater and sipping beer. Cooking for a company on the stove is horrible. I know. I tried.
 
+![A warm, inviting oven filled with baking sheets](/images/oven_feeding_crowd.jpg)
+
 Hence the oven. When I make Everything I make everything in the oven. When I have to feed a big crowd, I feed the oven and the oven feeds the crowd. While the oven is busy making everything, I can find some time to prepare the next batch of everything. Or something. Or anything. Or take a nap. Throwing things into the oven and letting them be is very liberating, and it helps you deal with the perfectionistic side of you that wants all things to be just right.
 
 Before you go on the "feed the oven" journey, you should invest in baking sheets. Usually your oven can handle 3–5 of them at the same time. Most people keep 1–2 at home. That's a mistake that has the worst impact on your work-life balance. Buy the extra baking sheets and stuff that oven top to bottom every time.
@@ -31,6 +33,8 @@ Before you go on the "feed the oven" journey, you should invest in baking sheets
 Keep the temperature high, 200–220C. It will run cooler because of all the stuff in the oven, and sometimes you might rotate the baking sheets top to middle to bottom. That's a good thing. Each of these rotations teaches you how your oven works, how convection works, whether your oven has hot spots you need to augment with even more rotations.
 
 What kinds of everything go in the oven? Veggies. Fish. Meat. Bread. Pies. Fruit.
+
+![A baking sheet full of colorful roasted vegetables](/images/roasted_veggies_sheet.jpg)
 
 There are 3 main ways to pop veggies in the oven:
 
