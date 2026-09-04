@@ -23,7 +23,7 @@ You don't really need to do anything. Kids will eat. They will run around, get h
 
 You will know it's working when you walk into your own kitchen and find it already occupied. Somebody is standing at the counter with the fridge door hanging open behind them, building a sandwich out of things you had other plans for. The bread is torn, not sliced. There is too much of one thing and none of another. They will not offer you a bite, and they will not ask whether it's allowed. That is the entire curriculum, and you did not teach a minute of it.
 
-![A teenager standing in socks at the kitchen counter building a tall sandwich out of torn bread, with the fridge door wide open behind them as a parent watches from the doorway](/images/kid_building_sandwich.jpg)
+![A teenager in socks building a tall kosher meat sandwich from torn bread and an open fridge, while the father smiles privately to himself in the dark unobserved](/images/kid_building_sandwich.jpg)
 
 Creating a dish, a menu, a diet, a kitchen, a cuisine is a balancing act and an exercise of trust. Trusting your gut so that you can feed it. Trusting your instincts so you can sharpen them. Trusting other people to give you just the right amount of TLC.
 
