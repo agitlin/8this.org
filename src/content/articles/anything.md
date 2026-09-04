@@ -27,7 +27,7 @@ Somebody performed that reduction for you. And the moment you accept the contain
 
 And sometimes it's your turn to shoot the reel. I'm here to help.
 
-![The three shapes of the same meal: salad, sandwich, and soup](/images/salad_sandwich_soup.jpg)
+![First-person view sipping soup on the street while scrolling a feed, with people eating sandwiches and carrying salads in the background](/images/salad_sandwich_soup.jpg)
 
 If you can read this you can make a salad and you can make a sandwich. You learn it the same way we learn to speak and write: by reverse engineering the combination of the whole that we want from the parts that we have.
 
