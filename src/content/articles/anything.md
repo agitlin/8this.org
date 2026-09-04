@@ -49,8 +49,6 @@ You see, besides water, the biggest void in our kitchens and our diets is air. T
 
 The third phase starts around the time you turn it off, cover it tight and let it cool down slowly. That's when you add chopped herbs, crushed garlic, olives, smoked meats, or really any good thing your rabbi, your budget and your taste would allow. But whatever you do, leave that little bit of extra space between the top of the soup and the lid. The empty space. We will talk about Nothing in the next chapter, but you can start getting ready now.
 
-![Good soup meme: a man savoring a spoonful of soup in contemplative bliss with an OK gesture](/images/good_soup.jpg)
-
 ## The compliment
 
 I would like to finish this with the ultimate pickup line — a compliment you can say to someone you've known for decades or for five minutes. As I said in the epigraph, the way you do anything is the way you do everything. You know a person by the way they bother, optimize, balance ebb and flow. And you know you want to share your Everything with them from the way they do Anything.
@@ -58,3 +56,5 @@ I would like to finish this with the ultimate pickup line — a compliment you c
 So what do you say to that special one?
 
 > *I miss your soup.*
+
+![A romance spiraling into a steaming pot of soup: autumn leaves, sunrise, dog on the grass, and a picnic, captioned "I miss your soup"](/images/i_miss_your_soup.jpg)
