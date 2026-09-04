@@ -21,11 +21,13 @@ Nothing.
 
 You don't really need to do anything. Kids will eat. They will run around, get hungry, and find something to eat. Just like that. And eventually they will get hungry for something else to do, and they will cook. It's a natural progression of healthy development. Being creative. Being a giver. Figuring out how to make [Something](/articles/something) out of [Anything](/articles/anything).
 
+You will know it's working when you walk into your own kitchen and find it already occupied. Somebody is standing at the counter with the fridge door hanging open behind them, building a sandwich out of things you had other plans for. The bread is torn, not sliced. There is too much of one thing and none of another. They will not offer you a bite, and they will not ask whether it's allowed. That is the entire curriculum, and you did not teach a minute of it.
+
 Creating a dish, a menu, a diet, a kitchen, a cuisine is a balancing act and an exercise of trust. Trusting your gut so that you can feed it. Trusting your instincts so you can sharpen them. Trusting other people to give you just the right amount of TLC.
 
 You know, it takes guts to write a cookbook when you are a cookbook aficionado. What else is there to say? It's all been cooked and said before, it's insignificant, generally available and too material to matter. And yet, I'm glad I did it. Because the trust part is much more important than the balancing part.
 
-When you choose to feed or be fed by someone for a while, the balance will take care of itself over time. No need to obsess over it and let it spoil your days. Trusting the bond is enough. Clinking the wine glasses was historically done to redistribute the non-existent poison among the drinkers, and to demonstrate mutual trust. Home is a place of trust, where you can cook for others and others can cook for you. Or not.
+When you choose to feed or be fed by someone for a while, the balance will take care of itself over time. No need to obsess over it and let it spoil your days. Trusting the bond is enough. The story goes that clinking the wine glasses was done to redistribute the non-existent poison among the drinkers, and to demonstrate mutual trust. Home is a place of trust, where you can cook for others and others can cook for you. Or not.
 
 As I travel the roads of Israel I keep feeling at home, and I keep finding more people I trust to make my food and take care of me. They grow veggies, make dough, pickle olives, age wine, grill meat, broil fish and make desserts. Their pots are bubbling slowly and it smells like people live here. The balance of it all is managed well, and by a much better Manager than I could ever become.
 
