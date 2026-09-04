@@ -23,6 +23,12 @@ I think it's about decision fatigue. When you try to reduce the world of options
 
 With salad, your food is delivered by forkfuls from a container. With sandwich it comes by bites of a deliberately arranged salad wrapped in bread. With soup it flows into you by spoonfuls from a bowl, or sips from a cup. But all three are really a [trail mix](/articles/trail-mix) with more perishable ingredients, that we agreed to call a meal.
 
+Somebody performed that reduction for you. And the moment you accept the container, you submit to the authority of whoever made your food. Anything they've done is good enough. Anything they chose to put in. Any decisions they made along the way. You're consuming their content, scrolling through their soup.
+
+And sometimes it's your turn to shoot the reel. I'm here to help.
+
+![The three shapes of the same meal: salad, sandwich, and soup](/images/salad_sandwich_soup.jpg)
+
 If you can read this you can make a salad and you can make a sandwich. You learn it the same way we learn to speak and write: by reverse engineering the combination of the whole that we want from the parts that we have.
 
 Soup is a salad gradually immersed in boiling water over a period of time.
@@ -42,6 +48,8 @@ How much water? Half to two thirds of the full volume of the pot, depending on y
 You see, besides water, the biggest void in our kitchens and our diets is air. The lack of it. We have everything, and while we're at it we want to chop it all up and throw it into the boiling pot now. Resist this temptation and you will end up with an awesome soup. Just like with the [trail mix](/articles/trail-mix), letting people taste all the things you did not put in this time is the real gift of your soup making service.
 
 The third phase starts around the time you turn it off, cover it tight and let it cool down slowly. That's when you add chopped herbs, crushed garlic, olives, smoked meats, or really any good thing your rabbi, your budget and your taste would allow. But whatever you do, leave that little bit of extra space between the top of the soup and the lid. The empty space. We will talk about Nothing in the next chapter, but you can start getting ready now.
+
+![Cross-section diagram of a soup pot showing the phases and the essential empty space](/images/soup_empty_space.jpg)
 
 ## The compliment
 
