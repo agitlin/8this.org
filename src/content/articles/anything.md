@@ -49,7 +49,7 @@ You see, besides water, the biggest void in our kitchens and our diets is air. T
 
 The third phase starts around the time you turn it off, cover it tight and let it cool down slowly. That's when you add chopped herbs, crushed garlic, olives, smoked meats, or really any good thing your rabbi, your budget and your taste would allow. But whatever you do, leave that little bit of extra space between the top of the soup and the lid. The empty space. We will talk about Nothing in the next chapter, but you can start getting ready now.
 
-![Cross-section diagram of a soup pot showing the phases and the essential empty space](/images/soup_empty_space.jpg)
+![Good soup meme: a man savoring a spoonful of soup in contemplative bliss with an OK gesture](/images/good_soup.jpg)
 
 ## The compliment
 
