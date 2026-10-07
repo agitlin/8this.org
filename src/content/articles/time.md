@@ -14,6 +14,8 @@ draft: false
 
 *A place to be on time.*
 
+![A calm man preparing food in a sunlit kitchen, resembling an aikido master of the kitchen](/images/kitchen_aikido.jpg)
+
 I feel at home in my kitchen, and whenever I show up there I feel like I'm on time. I feel like an aikido master, standing by the flow of people, seasons, ingredients, experiments, expiration dates, happy occasions and ordinary dinners, redirecting the energy of one into another, around me, towards eternal balance, wisdom and ultimate good.
 
 I fooled you little by little in this short book. You learned to shop, to wait, to draw the line. To choose your Something, to feed the oven, to leave room under the lid, to trust. Add it all up and it takes forever. Who has time to discover their ultimate formula of a [Trail Mix](/articles/trail-mix)? Who has space for a 6-liter, slowly diminishing container of [homemade sauerkraut](/articles/pickles)? Who has enough years and audacity to make all possible kinds of [bigos](/articles/something)? Only immortals.
@@ -26,6 +28,8 @@ Cooking is not the art of making food.\
 Cooking is not the art of making a cook.\
 Cooking is not the art of making a meal, an event, a menu or a cuisine.\
 Cooking is the art of making time.
+
+![Bulk-fermented bread dough sliding onto a cutting board in warm morning light](/images/bread_dough_time.jpg)
 
 My most favorite sound in the kitchen is when bulk-fermented dough is taking its sweet time to slide onto the giant cutting board before I slice it and shape it into loaves. It does not care that I still need to make a something, an anything, go buy a few nothings and fit a few trays of everything into the oven while I preheat it for the bread bake. It balances my impatience with a single, slightly annoyed "Uff!" it makes as it finally leaves the container.
 
