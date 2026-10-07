@@ -7,7 +7,7 @@ import { getAboutArticle } from '../lib/content';
 const about = await getAboutArticle();
 const { Content } = about ? await about.render() : { Content: null };
 ---
-<BaseLayout title="8this.org" description={about?.data.description}>
+<BaseLayout title="8this.org" hideHeader description={about?.data.description}>
   <div class="hero">
     <h1>8this.</h1>
   </div>

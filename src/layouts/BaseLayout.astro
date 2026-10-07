@@ -1,7 +1,7 @@
 ---
 import '../styles/global.css';
-export interface Props { title: string; description?: string; }
-const { title, description = '8this.org — pragmatic creative cooking, diet, and the art of nourishing yourself well.' } = Astro.props;
+export interface Props { title: string; description?: string; hideHeader?: boolean; }
+const { title, hideHeader = false, description = '8this.org — pragmatic creative cooking, diet, and the art of nourishing yourself well.' } = Astro.props;
 ---
 <!DOCTYPE html>
 <html lang="en">
@@ -17,19 +17,14 @@ const { title, description = '8this.org — pragmatic creative cooking, diet, an
     For Milla — a slightly belated 24th birthday present. <em>With love, Dad.</em>
   </div>
   <script is:inline>
-    // Shows once per visit, then fades away on its own (see .dedication in global.css).
-    (function () {
-      var d = document.getElementById('dedication');
-      try {
-        if (sessionStorage.getItem('dedication-seen')) { d.remove(); return; }
-        sessionStorage.setItem('dedication-seen', '1');
-      } catch (e) {}
-      d.addEventListener('click', function () { d.remove(); });
-    })();
+    // Fades away on its own (see .dedication in global.css); a click dismisses it sooner.
+    document.getElementById('dedication').addEventListener('click', function () { this.remove(); });
   </script>
-  <header class="site-header">
-    <div class="site-title"><a href="/">8this.org</a></div>
-  </header>
+  {!hideHeader && (
+    <header class="site-header">
+      <div class="site-title"><a href="/">8this.org</a></div>
+    </header>
+  )}
   <main><slot /></main>
   <footer class="site-footer">© {new Date().getFullYear()} 8this.org</footer>
 </body>
