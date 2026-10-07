@@ -35,7 +35,7 @@ As I travel the roads of Israel I keep feeling at home, and I keep finding more 
 
 ## The joke
 
-I would like to finish this with a ridiculous joke.
+Let me leave you with a ridiculous joke.
 
 It's a festive sit-down dinner at the American embassy, and a Russian diplomat is seated next to a French diplomat. (I know no Russian diplomats, and I'm sure the image of one in this joke is not very flattering, but hopefully they will forgive me one day.) After inhaling first, second and third helpings, the Russian diplomat leans back in his chair and releases a button of his pants. It's just then that he notices that the French diplomat's plate is clean. He didn't eat anything.
 
@@ -47,4 +47,4 @@ It's a festive sit-down dinner at the American embassy, and a Russian diplomat i
 
 ![The embassy dinner joke: a Russian diplomat leaning back with an unbuttoned waistband and stacks of empty plates, bewildered by a French diplomat with a spotless plate](/images/embassy_diplomats_dinner.jpg)
 
-With that, I am going to lean back in my chair and cruise into an epilogue like an animal.
+With that, I am going to lean back in my chair and cruise into the last chapter like an animal.
