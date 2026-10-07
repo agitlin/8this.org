@@ -9,8 +9,8 @@ const byDateDesc = (a: Article, b: Article) =>
 
 /**
  * Articles for public listings: not hidden (draft) and not the About page.
- * Used by the index, articles list, article routes, and tag pages so that
- * hidden and About-tagged entries never leak into normal browsing.
+ * Used by the article routes so that hidden and About-tagged entries never
+ * get a page of their own.
  */
 export async function getPublishedArticles(): Promise<Article[]> {
   const all = await getCollection('articles');
@@ -19,13 +19,16 @@ export async function getPublishedArticles(): Promise<Article[]> {
     .sort(byDateDesc);
 }
 
-/** tag -> count, computed from published articles only (so `about` never shows). */
-export async function getTagCounts(): Promise<Record<string, number>> {
-  const counts: Record<string, number> = {};
-  for (const a of await getPublishedArticles()) {
-    for (const t of a.data.tags) counts[t] = (counts[t] || 0) + 1;
-  }
-  return counts;
+export const CHAPTER_TAG = 'fundamentals';
+
+/**
+ * The 8 chapters in reading order: published articles tagged `fundamentals`,
+ * oldest first. Drives the previous/next links on each chapter page.
+ */
+export async function getChapters(): Promise<Article[]> {
+  return (await getPublishedArticles())
+    .filter((a) => a.data.tags.includes(CHAPTER_TAG))
+    .reverse();
 }
 
 /**

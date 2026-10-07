@@ -1,30 +1,17 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
-import TagCloud from '../components/TagCloud.astro';
-import { getPublishedArticles, getTagCounts } from '../lib/content';
-const articles = (await getPublishedArticles()).slice(0, 5);
-const tagCounts = await getTagCounts();
+import { getAboutArticle } from '../lib/content';
+
+// The home page renders whichever article is tagged `about` (enforced unique
+// at build time in lib/content.ts), so it stays editable in the CMS.
+const about = await getAboutArticle();
+const { Content } = about ? await about.render() : { Content: null };
 ---
-<BaseLayout title="8this.org">
+<BaseLayout title="8this.org" description={about?.data.description}>
   <div class="hero">
     <h1>8this.</h1>
-    <p>The diet of exercise and the exercise of diet — food, information, and the discipline of nourishing yourself well.</p>
   </div>
-  <section style="margin-bottom: 2.5rem;">
-    <h2 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 1rem; font-family: 'Source Sans 3', sans-serif; font-weight: 600;">Explore by topic</h2>
-    <TagCloud tags={tagCounts} />
-  </section>
-  <section>
-    <h2 style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.07em; color: var(--muted); margin-bottom: 1rem; font-family: 'Source Sans 3', sans-serif; font-weight: 600;">Recent</h2>
-    <ul class="article-list">
-      {articles.map(a => (
-        <li class="article-item">
-          <h2><a href={`/articles/${a.slug}`}>{a.data.title}</a></h2>
-          <div class="article-meta">{a.data.date}</div>
-          {a.data.description && <p class="article-desc">{a.data.description}</p>}
-        </li>
-      ))}
-    </ul>
-    <p style="margin-top:1.5rem;"><a href="/articles">All articles →</a></p>
-  </section>
+  <article class="prose">
+    {Content ? <Content /> : <p>No article is tagged <code>about</code> yet.</p>}
+  </article>
 </BaseLayout>

@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { getPublishedArticles } from '../../lib/content';
+import { getPublishedArticles, getChapters } from '../../lib/content';
 
 export async function getStaticPaths() {
   const articles = await getPublishedArticles();
@@ -12,22 +12,23 @@ export async function getStaticPaths() {
 
 const { article } = Astro.props;
 const { Content } = await article.render();
+
+const chapters = await getChapters();
+const i = chapters.findIndex(c => c.slug === article.slug);
+const prev = i > 0 ? chapters[i - 1] : undefined;
+const next = i >= 0 && i < chapters.length - 1 ? chapters[i + 1] : undefined;
 ---
 <BaseLayout title={article.data.title} description={article.data.description}>
   <div class="article-header">
     <h1>{article.data.title}</h1>
-    <p class="meta">{article.data.date}</p>
+    <p class="meta">{i >= 0 ? `${i + 1} of ${chapters.length} · ` : ''}{article.data.date}</p>
   </div>
   <div class="prose">
     <Content />
   </div>
-  <div class="article-tags">
-    <h3>Tags</h3>
-    <div class="tag-cloud">
-      {article.data.tags.map(tag => (
-        <a href={`/tags/${tag}`} class="tag">{tag}</a>
-      ))}
-    </div>
-  </div>
-  <a href="/articles" class="back-link">← All articles</a>
+  <nav class="chapter-nav">
+    <span>{prev && <a href={`/articles/${prev.slug}`}>← {prev.data.title}</a>}</span>
+    <a href="/" class="chapter-nav-home">The 8</a>
+    <span>{next && <a href={`/articles/${next.slug}`}>{next.data.title} →</a>}</span>
+  </nav>
 </BaseLayout>

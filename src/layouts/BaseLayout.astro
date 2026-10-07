@@ -13,13 +13,22 @@ const { title, description = '8this.org — pragmatic creative cooking, diet, an
   <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 </head>
 <body>
+  <div class="dedication" id="dedication">
+    For Milla — a slightly belated 24th birthday present. <em>With love, Dad.</em>
+  </div>
+  <script is:inline>
+    // Shows once per visit, then fades away on its own (see .dedication in global.css).
+    (function () {
+      var d = document.getElementById('dedication');
+      try {
+        if (sessionStorage.getItem('dedication-seen')) { d.remove(); return; }
+        sessionStorage.setItem('dedication-seen', '1');
+      } catch (e) {}
+      d.addEventListener('click', function () { d.remove(); });
+    })();
+  </script>
   <header class="site-header">
     <div class="site-title"><a href="/">8this.org</a></div>
-    <nav>
-      <a href="/about">About</a>
-      <a href="/articles">Articles</a>
-      <a href="/tags">Tags</a>
-    </nav>
   </header>
   <main><slot /></main>
   <footer class="site-footer">© {new Date().getFullYear()} 8this.org</footer>
